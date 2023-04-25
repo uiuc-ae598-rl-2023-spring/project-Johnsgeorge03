@@ -1,6 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UhEinarp)
 # Project
-
+## Instructions to run the file
+- To train the agent run the file main.py. The results will be written to a directory defined by the variable "test_dir".
+- To deploy the agent run the file test_model.py.
+- Required packages are in the file environment.yml.
+- The results shown in the presentation can be found in the directory "test2".
 ## What to do
 
 Your goal is to apply your understanding of reinforcement learning algorithms to a research problem of interest to you. Example types of applications are:
